@@ -21,3 +21,8 @@
 - Patrullas regulares
 - Actualizaciones de seguridad
 - Reportes de estado
+
+### Fase 4: Evaluación
+- Analizar efectividad de las operaciones
+- Ajustar estrategias según resultados
+- Realizar auditorías periódicas de control
