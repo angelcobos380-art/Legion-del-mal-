@@ -25,3 +25,7 @@
 
 ## Relevancia para la Legión
 The Flash es un enemigo formidable debido a su velocidad y habilidades únicas. Su capacidad para moverse rápidamente y manipular el tiempo lo convierte en un adversario difícil de enfrentar. Sin embargo, su ego y dependencia de la Fuerza de la Velocidad presentan oportunidades para explotarlo.
+
+- Flash ha interferido con varias operaciones de la Legión, incluyendo sabotajes y rescates de héroes capturados.
+- Toda ciudad donde Flash opera se convierte en un desafío para nuestras operaciones encubiertas, ya que puede llegar a cualquier lugar antes de que podamos reaccionar.
+- Desactiva Bombas en milisigundos, lo que hace que cualquier plan de sabotaje requiera una ejecución extremadamente rápida y precisa.
