@@ -32,3 +32,25 @@ recursos:
   - Laboratorio secreto en el Punto Cero (donde nació la Fuerza de Velocidad)
   - Red de portales temporales en ciudades principales
   - Traje de Reverse Flash con capacidad de absorción energética
+
+rol_en_la_legion: |
+  Reverse Flash es el brazo ejecutor temporal de la Legión.
+  Puede infiltrarse en cualquier momento del pasado para sabotear misiones heroicas
+  antes de que comiencen. Sin embargo, su obsesión personal con Flash es un riesgo:
+  ha puesto en peligro misiones enteras por su compulsión de torturar mentalmente a su rival.
+  Lex Luthor lo tolera porque es indispensable, pero ha amenazado con reemplazarlo
+  si su obsesión sigue interfiriendo.
+
+rivalidad_principal: "The Flash (Barry Allen)"
+guarida_asignada: "Base Mar Rojo"
+misiones_completadas: 9
+misiones_fallidas: 3
+
+notas_confidenciales: |
+  Reverse Flash ha estado manipulando eventos temporales para beneficio propio,
+  no solo para la Legión. Brainiac sospecha esto pero aún no tiene pruebas.
+  Magneto lo considera un "loco incontrolable" pero respeta su poder.
+  Lex Luthor mantiene un cable telefónico directo a su laboratorio y lo monitorea
+  constantemente. Se rumorea que Reverse Flash podría intentar viajar al futuro
+  para recrutar versiones alternativas de sí mismo. Si eso sucede, la Legión
+  podría tener un problema exponencial en sus manos.
