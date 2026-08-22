@@ -1,0 +1,34 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Reverse Flash"
+nombre_real: "Eobard Thawne"
+universo: DC
+rango: "Villano principal"
+estado: activo
+
+perfil:
+  identidad_publica: "Ninguna. Conocido solo como Reverse Flash."
+  motivacion: "Destruir a Flash y demostrar que es el más rápido. Su obsesión por Flash lo lleva a viajar en el tiempo para arruinar su vida."
+  frase_celebre: "Fui yo barry, yo asesine a tu madre."
+
+habilidades:
+  - Velocidad sobrehumana (más rápida que la luz)
+  - Viaje en el tiempo
+  - Manipulación temporal
+  - Regeneración acelerada
+  - Conocimiento avanzado de la ciencia del tiempo
+
+debilidades:
+  - Obsesión patológica con Flash lo hace impulsivo y comete errores estratégicos
+  - Consumo energético insostenible (necesita fuentes de energía constantes para sus viajes temporales)
+  - Su vileza es personal, no ideológica, lo que lo hace inestable en grupo
+  - Armas de energía morada o electromagnéticas pueden ralentizarlo
+  - Deuda temporal: cambiar el pasado tiene consecuencias impredecibles
+
+recursos:
+  - Tecnología de la Fuerza de Velocidad (stolen from the future)
+  - Laboratorio secreto en el Punto Cero (donde nació la Fuerza de Velocidad)
+  - Red de portales temporales en ciudades principales
+  - Traje de Reverse Flash con capacidad de absorción energética
