@@ -2,7 +2,7 @@
 name: Template para bugs de software
 about: Ayudaros a mejorar
 title: 'Bug: '
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de Software
 assignees: angelcobos380-art
 
 ---
