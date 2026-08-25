@@ -24,8 +24,8 @@ jobs:
 
             - name: Capacidades del agente
               run: |
-                echo: "Capacidades detectadas"
-                echo: "Sistema Operativo"
+                echo "Capacidades detectadas"
+                echo "Sistema Operativo"
                 uname -a 
                 echo "Habilidades tecnicas"
                 node --version
