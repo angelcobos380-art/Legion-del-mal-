@@ -34,6 +34,6 @@ jobs:
             
             - name: Reconocimeinto del terreno
               run: |
-                echo: "Reconocimiento del terreno"
+                echo "Reconocimiento del terreno"
                 ls /
               
