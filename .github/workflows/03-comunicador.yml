@@ -1,0 +1,24 @@
+
+name: Comunicador de la legion 
+
+on:
+  workflow_dispatch:
+    inputs:
+      villano:
+        description: "¿Que villano envia el mensaj?"
+        required: true
+        type: choice
+        options:
+          - Lex Luthor
+          - Magneto
+          - The Joker
+          - Reverse Flash
+          - Brainiac
+
+
+jobs:
+  transmitir-mensaje:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
