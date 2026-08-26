@@ -14,7 +14,9 @@
 # ╚══════════════════════════════════════════════════════╝
 
 name: 🔍 Escaneo de seguridad de Brainiac
-on: push
+on: 
+    push:
+        branches: [main]
 jobs:
   escaneo:
     runs-on: ubuntu-latest
