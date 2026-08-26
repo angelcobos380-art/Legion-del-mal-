@@ -107,7 +107,7 @@ echo "📋 Verificando inteligencia sobre héroes..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 if ls inteligencia/perdedores/*.md 1>/dev/null 2>&1; then
-  TOTAL_EXPEDIENTES=$(ls inteligencia/*.md | wc -l)
+  TOTAL_EXPEDIENTES=$(ls inteligencia/perdedores/*.md | wc -l)
   echo "  📁 $TOTAL_EXPEDIENTES expedientes de héroes en la base de datos."
 
   for expediente in inteligencia/*.md; do
